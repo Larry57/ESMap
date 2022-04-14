@@ -1,59 +1,11 @@
 {
   "systems": [
     {
-      "name": "Checkpoint 1",
+      "name": "Alien Surface Station - FCMN",
       "coords": {
-          "x": "-6644",
-          "y": "-21",
-          "z": "11738"
-      }
-    },
-    {
-      "name": "Checkpoint 2",
-      "coords": {
-          "x": "-10534",
-          "y": "-21",
-          "z": "16384"
-      }
-    },
-    {
-      "name": "Checkpoint 3",
-      "coords": {
-          "x": "-4969",
-          "y": "-21",
-          "z": "22262"
-      }
-    },
-    {
-      "name": "Checkpoint 4",
-      "coords": {
-          "x": "3553",
-          "y": "-21",
-          "z": "8732"
-      }
-    },
-    {
-      "name": "Checkpoint 5",
-      "coords": {
-          "x": "6297",
-          "y": "-21",
-          "z": "14626"
-      }
-    },
-    {
-      "name": "Checkpoint 6",
-      "coords": {
-          "x": "18975",
-          "y": "-21",
-          "z": "25676"
-      }
-    },
-    {
-      "name": "Sagittarius A*",
-      "coords": {
-          "x": "25",
-          "y": "-21",
-          "z": "25900"
+          "x": ":71817.45",
+          "y": "126529.13",
+          "z": "5723510.14"
       }
     }
   ],
